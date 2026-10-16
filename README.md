@@ -23,6 +23,6 @@ Start with the 2-minute demo in the repo: `python3 demo/verify_demo.py` — it c
 
 ## Background
 
-Master's in AI (completed, 6/6 modules). Independent builder full-time since Sep 2025. Available for contract work with full US Eastern overlap.
+Intensive six-module AI study program (completed). Independent builder full-time since Sep 2025. Available for contract work with full US Eastern overlap.
 
 **Contact:** alesalusso10@gmail.com · [LinkedIn](https://www.linkedin.com/in/alejandro-nahuel-salusso-b8ab3b1b7)
